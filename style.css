@@ -1,0 +1,52 @@
+body {
+
+    background-color: white;
+    margin: 0px;
+}
+.menu {
+    display: flex;
+    list-style-type: none;
+    margin-top: 0px;
+    margin-left: 0px;
+    width: 100%;
+    padding:8px;
+    overflow: hidden;
+    position: fixed;
+    background-color: rgb(196, 196, 196);
+    top: 0;
+    justify-content: space-between;
+}
+.alto {
+}
+.pagina {
+}
+
+section {
+    padding:80px;
+}
+
+h2 {
+    color: brown;
+}
+
+
+li {
+    display: inline;
+    width: 100%;
+    
+}
+
+a {
+    color: black;
+ text-decoration: none;
+}
+
+a:hover {
+
+    color: brown;
+}
+
+a:visited {
+
+    color: brown;
+}
