@@ -1,3 +1,5 @@
+# esercitazione di styling css di 10 elementi html 
+
 i tag che abbiamo deciso di formattare con gli stili sono:
 
 - button
@@ -50,7 +52,7 @@ The <div> element should be used only when no other semantic element (such as <a
 
 # span:
 
-Lo span è simile al DIV ma è un elemento inline
+Lo span Ã¨ simile al DIV ma Ã¨ un elemento inline
 
 ## utilizzo in HTML
 ```
