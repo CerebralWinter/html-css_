@@ -1,4 +1,4 @@
-# esercitazione di styling css di 10 elementi html 
+# esercitazione di html-css: definizione css di 10 elementi html
 
 i tag che abbiamo deciso di formattare con gli stili sono:
 
